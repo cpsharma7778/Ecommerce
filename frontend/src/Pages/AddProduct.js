@@ -6,6 +6,8 @@ export default function AddProduct() {
     <div>
         <Nav/>
       AddProduct
+      <></>
     </div>
+     
   )
 }
